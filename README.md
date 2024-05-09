@@ -1,3 +1,11 @@
+Here is the live app link 
+# https://my-textplay.netlify.app
+
+
+![image](https://github.com/akash70629/Text-utils/assets/76689571/a43d6266-4c78-47c2-80e9-90b9ea344b14)
+
+![image](https://github.com/akash70629/Text-utils/assets/76689571/44bc03c0-b7cd-4937-8089-e936d1b8d54f)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
